@@ -19,15 +19,15 @@
   },
   "homepage": "https://github.com/photonstorm/phaser3-typescript#readme",
   "devDependencies": {
-    "raw-loader": "^0.5.1",
-    "ts-loader": "^5.3.0",
-    "typescript": "^3.1.6",
-    "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.9"
+    "raw-loader": "^1.0.0",
+    "ts-loader": "^5.3.2",
+    "typescript": "^3.2.2",
+    "webpack": "^4.28.2",
+    "webpack-cli": ">= 3.1",
+    "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "npm": "^6.4.1",
+    "npm": "^6.5.0",
     "phaser": ">= 3.0"
   }
 }
